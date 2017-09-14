@@ -1,3 +1,9 @@
+### SAMMY ### 
+sammy/doc/doc-html/
+
+### CLion ###
+cmake-build-debug/
+
 .DS_Store
 /doc
 /build
